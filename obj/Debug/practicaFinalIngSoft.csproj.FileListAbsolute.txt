@@ -1,0 +1,5 @@
+C:\Users\wkldl\OneDrive\Documentos\C# practica\practicaFinalIngSoft\practicaFinalIngSoft\obj\Debug\practicaFinalIngSoft.csproj.AssemblyReference.cache
+C:\Users\wkldl\OneDrive\Documentos\C# practica\practicaFinalIngSoft\practicaFinalIngSoft\obj\Debug\TransformarPDF.Program.resources
+C:\Users\wkldl\OneDrive\Documentos\C# practica\practicaFinalIngSoft\practicaFinalIngSoft\obj\Debug\practicaFinalIngSoft.Properties.Resources.resources
+C:\Users\wkldl\OneDrive\Documentos\C# practica\practicaFinalIngSoft\practicaFinalIngSoft\obj\Debug\practicaFinalIngSoft.csproj.GenerateResource.cache
+C:\Users\wkldl\OneDrive\Documentos\C# practica\practicaFinalIngSoft\practicaFinalIngSoft\obj\Debug\practicaFinalIngSoft.csproj.CoreCompileInputs.cache
